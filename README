@@ -1,3 +1,8 @@
-This is sample sketch for an Arduino board that follows light by sensoring with photoresistors and adjusting with a stepper motor.
+An Arduino prototype that positions a solar panel to the light
 
-Video link to provided.
+This Arduino board uses two photo-resistors as light sensors and then adjusts the position of a solar panel controlling a stepper motor.
+
+
+[How it works](https://www.youtube.com/watch?v=uaVkkHLPJj4)
+
+
