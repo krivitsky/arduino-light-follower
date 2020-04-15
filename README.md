@@ -6,6 +6,7 @@ This Arduino board uses two photo-resistors as light sensors and then adjusts th
 
 Click on the image below for a youtube demo:
 
-[![demo](https://img.youtube.com/vi/uaVkkHLPJj4/0.jpg)]
-(https://www.youtube.com/watch?v=uaVkkHLPJj4 "demo")
+https://img.youtube.com/vi/uaVkkHLPJj4/0.jpg
+
+https://www.youtube.com/watch?v=uaVkkHLPJj4
 
